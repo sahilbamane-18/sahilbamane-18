@@ -30,5 +30,5 @@ A full-stack grievance redressal platform deployed on Render and Supabase, utili
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Sahil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilbamane-18&show_icons=true&theme=radical" alt="Sahil's GitHub stats" />
 </p>
