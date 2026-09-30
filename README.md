@@ -5,7 +5,7 @@ I am a recent Computer Science graduate specializing in building scalable, real-
 
 🚀 **What I'm working on:** Actively developing and maintaining **[CivicPulse](https://civicpulse-fab0.onrender.com)**, a live, GIS-enabled smart governance platform.
 💡 **Tech Stack:** Python, Flask, PostgreSQL, MySQL, Leaflet.js, REST APIs, Git/GitHub.
-📫 **How to reach me:** [Insert your LinkedIn URL or Email]
+📫 **How to reach me:** [Connect on LinkedIn](https://www.linkedin.com/in/sahil-bamane-19b795323/)
 
 ### 🏆 Featured Project: CivicPulse
 A full-stack grievance redressal platform deployed on Render and Supabase. 
