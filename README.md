@@ -26,7 +26,7 @@ I am a recent Computer Science graduate specializing in building scalable, real-
 ### 🏆 Featured Project: CivicPulse
 A full-stack grievance redressal platform deployed on Render and Supabase, utilizing Leaflet.js for GIS mapping.
 - 🔗 **[View Live Site](https://civicpulse-fab0.onrender.com)**
-- 💻 **[View Source Code](https://github.com/your-username/CivicPulse)** *(Don't forget to update "your-username" in this link!)*
+- 💻 **[View Source Code](https://github.com/sahilbamane-18/CivicPulse)** 
 
 ### 📊 GitHub Stats
 <p align="left">
